@@ -40,7 +40,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/errorvdept/errorvdept/blob/output/snake.svg" alt="Snake animation" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=errorvdept&show_icons=true&locale=en&layout=compact" alt="errorvdept" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=errorvdept&theme=dark" alt="errorvdept" /></p>
 
 ###
 
