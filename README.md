@@ -8,7 +8,8 @@
 </div>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=errorvdept&repo=OneButtonVideoConverter&theme=dark)](https://github.com/ErrorVdept/OneButtonVideoConverter)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=errorvdept&repo=lynxchat-win&theme=dark)](https://github.com/ErrorVdept/lynxchat-win)
+
+
 
 
   ###
