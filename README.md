@@ -1,10 +1,11 @@
 <h2 align="center">ErrorVdept || Ilya Belousov </h2>
 
 ###
+<br clear="both">
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=errorvdept&theme=dark" alt="errorvdept" /></p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=errorvdept" height="150" alt="languages graph"  />
-</div>
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  />
@@ -38,13 +39,6 @@
 
 ###
 
-
-
-<br clear="both">
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=errorvdept&theme=dark" alt="errorvdept" /></p>
-
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=errorvdept.errorvdept&"  />
