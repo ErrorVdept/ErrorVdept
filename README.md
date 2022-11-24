@@ -6,12 +6,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=errorvdept" height="150" alt="languages graph"  />
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=errorvdept&repo=OneButtonVideoConverter&theme=dark)](https://github.com/ErrorVdept/OneButtonVideoConverter)
-
-
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" width="42" alt="dot-net logo"  />
@@ -36,6 +30,15 @@
 </div>
 
 ###
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=errorvdept&repo=OneButtonVideoConverter&theme=dark)](https://github.com/ErrorVdept/OneButtonVideoConverter)
+
+
+
+###
+
+
 
 <br clear="both">
 
