@@ -44,9 +44,6 @@
 
 <br clear="both">
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=errorvdept&theme=dark" alt="errorvdept" /></p>
-
 ###
 
 <div align="center">
