@@ -35,6 +35,7 @@
 ###
 
 <div align="center">
+  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=errorvdept&repo=OneButtonVideoConverter&theme=dark)](https://github.com/ErrorVdept/OneButtonVideoConverter)
 
 </div>
