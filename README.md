@@ -28,18 +28,4 @@
 
 ###
 
-<div align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=errorvdept&repo=OneButtonVideoConverter&theme=dark)](https://github.com/ErrorVdept/OneButtonVideoConverter)
 
-</div>
-
-###
-
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=errorvdept.errorvdept&"  />
-</div>
-
-
-###
